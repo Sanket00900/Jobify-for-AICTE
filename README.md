@@ -1,1 +1,1 @@
-# Jobify-for-AICTE
+# Jobify for AICTE
